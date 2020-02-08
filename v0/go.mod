@@ -1,3 +1,3 @@
-module github.com/Stebalien/go-mod-play-dep/v0
+module github.com/Stebalien/go-mod-play-dep
 
 go 1.13
